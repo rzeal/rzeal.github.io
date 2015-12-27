@@ -1,0 +1,594 @@
+
+/***********index-begin***************************/
+.indexmiddle-bg{
+
+    height: 1401px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.indexmiddle-bg .indexmiddle{
+    width: 980px;
+    height: 1401px;
+    margin: 0 auto;
+
+}
+
+
+.indexmiddle-bg .indexmiddle .plate{
+    position: absolute;
+    top: 915px;
+    padding: 12px;
+    animation: move1 20s linear 0s;
+    -webkit-animation: move1 20s linear 0s;
+    -moz-animation: move1 20s linear 0s;
+    -ms-animation: move1 20s linear 0s;
+    -o-animation: move1 20s linear 0s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+}
+
+.indexmiddle-bg .indexmiddle .Xa{
+    position: absolute;
+    top: 916px;
+    padding-left: 151px;
+    z-index: 50;
+    width: 296px;
+    padding-top: 15px;
+}
+
+/******************index-end**********************/
+
+/***********showroom-beigin***************************/
+
+.showroom_bg{
+    background-color: #ffffff;
+    height: auto;
+    margin-top: 20px;
+}
+
+.showroom_bg .showroom .showroomA{
+    background-color: #d7c9be;
+    width:  980px;
+    height:705.817px;
+    z-index:-1;
+    margin: 0 auto;
+}
+
+.showroom_bg .showroom .showroomB{
+     background-color: #000329;
+     width:  980px;
+     height:351.791px;
+     z-index:-1;
+     margin: 0 auto;
+ }
+
+.showroom_bg .showroom .showroomC{
+    background-color: #6c181b;
+    width:  980px;
+    height:351.791px;
+    z-index:-1;
+    margin: 0 auto;
+}
+
+.showroom_bg .showroom .showroomD{
+    background-color: #d7c9be;
+    width:  980px;
+    height:844.591px;
+    z-index:-1;
+    margin: 0 auto;
+}
+
+.showroom_bg .showroom .showroomE {
+    background-color: #6c181b;
+    width:  980px;
+    height: 947.749px;
+    z-index:-1;
+    margin: 0 auto;
+}
+
+.showroom_bg .showroom .Xa{
+    position: relative;
+    top: 55px;
+    margin: 0 auto;
+    display: block;
+    z-index:3;
+
+}
+
+.showroom_bg .showroom .dh{
+    position: relative;
+    top: 144px;
+    margin: 0 auto;
+    display: block;
+    z-index: 3;
+}
+
+.showroom_bg .showroom .nj{
+    position: relative;
+    top: 60px;
+    margin: 0 auto;
+    display: block;
+    z-index:3;
+}
+
+.showroom_bg .showroom .bj{
+    position: relative;
+    top: 125px;
+    margin: 0 auto;
+    display: block;
+    z-index:3;
+}
+/***********showroom-end***************************/
+
+
+/***********act-begin***************************/
+.actmiddle-bg{
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.actmiddle-bg .actmiddle{
+    background-color: #d7c9be;
+    width: 980px;
+    height:1200px;
+    margin: 0 auto;
+    padding-top: 30px;
+
+}
+
+.actmiddle-bg .actmiddle .njact{
+    border: 3px solid #b89344;
+    width: 900px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.actmiddle-bg .actmiddle .njact img{
+    margin: 4px;
+}
+
+.actmiddle-bg .actmiddle .njact .njtxt{
+    float: right;
+    height: 275px;
+ }
+
+.actmiddle-bg .actmiddle .njact .njtxt .nj-vertical span{
+    font-size: 34px;
+    color: #9f8761;
+    text-align: center;
+    display: block;
+
+}
+
+.actmiddle-bg .actmiddle .njact .njtxt .nj-text{
+    margin-right: 18px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.actmiddle-bg .actmiddle .njact .njtxt .nj-text span{
+    font-size: 22px;
+}
+
+.actmiddle-bg .actmiddle .gugongact{
+    border: 3px solid #b89344;
+    width: 900px;
+    height: 280px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.actmiddle-bg .actmiddle .gugongact .gugongall{
+    margin: 10px;
+}
+
+.actmiddle-bg .actmiddle .gugongact .gugongall .gugongactA{
+    float: left;
+    width: 37%;
+    height:auto;
+
+}
+
+.actmiddle-bg .actmiddle .gugongact .gugongall .gugongactA  span{
+    float: right;
+    font-size: 22px;
+    color: #636363;
+}
+
+.actmiddle-bg .actmiddle .gugongact .gugongall .gugongactB{
+    float: left;
+    width: 16%;
+    height:50px;
+    background-color: #6c181b;
+}
+
+.actmiddle-bg .actmiddle .gugongact .gugongall .gugongactC{
+    float: left;
+    width: 16%;
+    height:50px;
+    background-color: #6c181b;
+
+}
+
+.actmiddle-bg .actmiddle .gugongact .gugongall .gugongactD{
+    float:right;
+    width: 16%;
+    height:50px;
+    background-color: #6c181b;
+}
+
+.actmiddle-bg .actmiddle .ticketacnflow-bg{
+   height: auto;
+
+}
+
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow{
+    background-color: #000329;
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 10px;
+    height: 420px;
+}
+
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .maketicket{
+    width: 449px;
+    height: 420px;
+    float:left;
+    border-right: 1px solid #fff;
+}
+
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .maketicket img{
+    position: relative;
+    top: 110px;
+    left: 147px;
+}
+
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .maketicket .tickettext{
+    color:#b89344;
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 110px;
+}
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .maketicket .tickettext span{
+    text-align: center;
+    display: block;
+
+}
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .maketicket .tickettext .text{
+    border-top:1px solid #b89344 ;
+}
+
+
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .flowcheck{
+     width: 449px;
+     height: 420px;
+     float:right;
+     border-left: 1px solid #fff;
+ }
+
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .flowcheck img{
+    position: relative;
+    top: 270px;
+    left: 147px;
+}
+
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .flowcheck .tickettext{
+    color:#b89344;
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 102px;
+}
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .flowcheck .tickettext span{
+    text-align: center;
+    display: block;
+
+}
+.actmiddle-bg .actmiddle .ticketacnflow-bg .ticketacnflow .flowcheck .tickettext .text{
+    border-top:1px solid #b89344 ;
+}
+
+.actmiddle-bg .actmiddle .shou{
+    position:relative;
+    top: -84px;
+    left: 360px;
+    z-index: 999;
+
+}
+
+.actmiddle-bg .actmiddle .footer{
+    background-color: #6c181b;
+    margin-top: 27px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 124px;
+}
+
+
+/***********act-end***************************/
+
+/********************appointment-begin*******************/
+/********************在同一页面中也运用了act的css*******************/
+.actmiddle-bg .actmiddle .njact .appointment{
+    float: right;
+    width: 461px;
+    height: auto;
+    /*height: 264px;*/
+    margin: 2px;
+    margin-top: 4px;
+
+}
+
+.actmiddle-bg .actmiddle .njact .appointment .appointment-title{
+    background-color: #9f0e15;
+
+
+}
+
+.actmiddle-bg .actmiddle .njact .appointment .appointment-title span{
+    color: #b89344;
+    font-size: 30px;
+    margin-left: 24px;
+}
+
+.actmiddle-bg .actmiddle .njact .appointment .appointment-title img{
+    margin: 1px 1px 1px 1px;
+    padding-left: 235px;
+    padding-top: 5px;
+}
+
+.actmiddle-bg .actmiddle .njact .appointment .appointment-text{
+    margin: 10px 30px 10px 30px;
+
+}
+
+.actmiddle-bg .actmiddle .njact .appointment .appointment-text .formindex p{
+    font-size: 22px;
+    margin-top: 15px;
+}
+
+.actmiddle-bg .actmiddle .njact .appointment .appointment-text .formindex p input {
+    border-color:#ccc;
+    border-style:solid;
+    border-bottom-width:1px;
+}
+
+/*******************appointment-end*******************/
+
+
+/*******************flow-begin*******************/
+.flow-bg{
+    background-color:#d7c9be;
+    height:auto;
+    width: 980px;
+    margin: 0 auto;
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+
+.flow-bg .flow{
+    background-color:#000329;
+    height: 1110px;
+    width: 940px;
+    margin: 0 auto;
+    padding-top: 14px;
+}
+
+.flow-bg .flow .flowtitle{
+    font-size: 42px;
+    color: #b89344;
+    display: block;
+    text-align: center;
+}
+
+.flow-bg .flow .flowtitlesecond{
+    text-align: center;
+    font-size: 22px;
+    color: #b89344;
+    display: block;
+}
+
+.flow-bg .flow .flowmove{
+    width: 940px;
+    height: 1200px;
+}
+
+
+.flow-bg .flow .flowmove .Beijing{
+    width: 228px;
+    height: 206px;
+    position: relative;
+    top: 40px;
+    left: 75px;
+    background-color: #a71f2a;
+}
+
+.flow-bg .flow .flowmove .Beijing .Beijingperson{
+    width: 562px;
+    height: 206px;
+    position: relative;
+    top: 0px;
+    left: 228px;
+    background-color: #d8bf8b;
+
+}
+
+
+.flow-bg .flow .flowmove .Nanjing{
+    width: 228px;
+    height: 206px;
+    position: relative;
+    top: 80px;
+    left: 637px;
+    background-color: #f2d89f;
+}
+
+.flow-bg .flow .flowmove .Nanjing .Nanjingperson{
+    width: 562px;
+    height: 206px;
+    position: relative;
+    top: 0px;
+    left: -562px;
+    background-color: #d1a659;
+}
+
+.flow-bg .flow .flowmove .Xian{
+    width: 228px;
+    height: 206px;
+    position: relative;
+    top: 120px;
+    left: 75px;
+    background-color: #c58f45;
+}
+
+.flow-bg .flow .flowmove .Xian .Xianperson{
+    width: 562px;
+    height: 206px;
+    position: relative;
+    top: 0px;
+    left: 228px;
+    background-color: #f2d89f;
+}
+
+.flow-bg .flow .flowmove .Dunhuang{
+    width: 228px;
+    height: 206px;
+    position: relative;
+    top: 160px;
+    left: 637px;
+    background-color: #a71f2a;
+}
+
+.flow-bg .flow .flowmove .Dunhuang .Dunhuangperson{
+    width: 562px;
+    height: 206px;
+    position: relative;
+    top: 0px;
+    left: -562px;
+    background-color: #d8bf8b;
+}
+/*******************flow-end**********************/
+
+
+/*******************present-begin**********************/
+.present-bg{
+    /*
+    height: 1402px;
+    width: 980px;
+    margin: 20px auto 0 auto;
+    background: #d7c9be;*/
+
+    height: 1402px;
+    width: 980px;
+    margin: 20px auto 0 auto;
+    background: #d7c9be;
+    padding-top: 20px;
+}
+
+.present-bg .present{
+    height: auto;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.present-bg .present .presentbegin{
+    background: #0f2b3e;
+    height: 137px;
+ }
+
+.present-bg .present .presentone{
+    width: 345px;
+    height: 183px;
+    position: relative;
+    top: 40px;
+    left: 0px;
+}
+
+.present-bg .present .presenttwo{
+    width: 200px;
+    height: 185px;
+    position: relative;
+    top: -143px;
+    left: 410px;
+}
+
+.present-bg .present .presentthree{
+    width: 265px;
+    height: 505px;
+    position: relative;
+    top: -358px;
+    left: 675px;
+}
+
+.present-bg .present .presentfour{
+    width: 611px;
+    height: 274px;
+    position: relative;
+    top: -600px;
+    left: 0px;
+    background-color: #868171;
+}
+
+.present-bg .present .presentplate{
+    width: 940px;
+    height: 188px;
+    position: relative;
+    top: -545px;
+    left: 0px;
+    border: #93733a 1px solid;
+}
+
+.present-bg .present .presentplate ul{
+    width: 915px;
+    margin: 0 auto;
+    padding-top: 0px;
+}
+
+.present-bg .present .presentplate ul li{
+    float: left;
+    margin: auto 14px;
+
+}
+
+.present-bg .present .footer{
+    position: relative;
+    top: -488px;
+    left: 32px;
+}
+
+/*******************present-end**********************/
+
+/*******************present-begin**********************/
+.present-bg .present .footero{
+    width: 940px;
+    height: 137px;
+    background-color: #6c181b;
+}
+
+.present-bg .present .presentint-bg {
+    background-color: #997c5b;
+    height: auto;
+    width: 615px;
+    margin: 0 auto;
+}
+
+.present-bg .present .presentint-bg .presentint{
+    height: 730px;
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+
+.present-bg .present .table{
+    width: 430px;
+    margin: 0 auto;
+}
+
+/*******************present-end**********************/
+
